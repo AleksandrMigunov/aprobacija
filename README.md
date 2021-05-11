@@ -20,7 +20,7 @@ In order to download the release that you need, click the link "Releases", choos
 
 Aprobacija_v.1.0_Win64 - инсталлятор для Windows (64-битные версии);
 
-Aprobacija_v.1.0_Win32 - интсаллятор для Windows (32-битные версии);
+Aprobacija_v.1.0_Win32 - инсталлятор для Windows (32-битные версии);
 
 Aprobacija_v.1.0_Linux - бинарный файл для Linux, установка не требуется (main_ru - русификатор);
 
